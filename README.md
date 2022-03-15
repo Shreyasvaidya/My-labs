@@ -1,2 +1,3 @@
 # My-labs
-All problems i have solved as part of my introduction to CS course
+Some of the programming problems which i found interesting
+
