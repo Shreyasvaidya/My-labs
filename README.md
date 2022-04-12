@@ -1,3 +1,3 @@
-# My-labs
+# Programming_problems
 Some of the programming problems which i found interesting
-Not completed yet due to other priorities
+monkeytype.cpp unfortunately not completed yet due to other priorities
